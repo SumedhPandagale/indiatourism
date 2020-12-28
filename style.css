@@ -1,0 +1,42 @@
+body{
+	 background: url(pondi.jpeg) no-repeat;
+	   background-size:cover;
+      margin: 0;
+	  padding: 0;
+	  color:white;
+	  
+	}
+.login-box{
+	
+	background: black;
+	border-radius: 20px;
+    width: 320px;
+    height: 300px;
+    position:absolute;
+    top: 30%;
+    left: 40%;
+
+    color:white;
+}
+	
+	
+a{
+	padding: 12px 30px;
+	border-radius: 4px;
+	outline: none;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 500;
+	text-decoration: none;
+	letter-spacing: 1px;
+	transition: all .5s ease
+}
+.btone{
+	background: red;
+	color: white
+}
+.btone:hover{
+	background: green;
+	color: black
+
+}
